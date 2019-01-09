@@ -29,7 +29,8 @@ h1 {
 	font-style: normal;
 	font-size: 80px;
 	font-weight: normal;
-	color: #9caca6 /*#6f7f7a*/
+	color: #9caca6; /*#6f7f7a*/
+	margin: 6px 20px 0px 20px
 }
 
 h1:hover{
@@ -61,10 +62,16 @@ a img:hover {
 }
 }
 
-a, a:visited {
-	color: #3a82b6;
+a {
 	text-decoration: none;
+	color: #3a82b6;
 	}
+
+a:visited {
+	text-decoration: none;
+	color: #3a82b6;
+	}
+
 a:hover {
 	text-decoration: underline;
 }
