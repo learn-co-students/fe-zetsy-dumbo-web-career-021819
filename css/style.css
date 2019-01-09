@@ -63,8 +63,8 @@ a img:hover {
 }
 
 a, a:visited {
-	color: #3a82b6;
 	text-decoration: none;
+	color: #3a82b6;
 	}
 
 a:hover {
