@@ -62,7 +62,12 @@ a img:hover {
 }
 }
 
-a, a:visited {
+a {
+	text-decoration: none;
+	color: #3a82b6;
+	}
+
+a:visited {
 	text-decoration: none;
 	color: #3a82b6;
 	}
